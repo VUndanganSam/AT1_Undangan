@@ -1,0 +1,13 @@
+name: task_manager_console
+description: A Dart console application demonstrating Riverpod, Models, and Services/Controllers.
+version: 1.0.0
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  riverpod: ^2.5.1
+
+dev_dependencies:
+  lints: ^3.0.0
